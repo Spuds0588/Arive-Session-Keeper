@@ -7,7 +7,7 @@ A simple, lightweight, "install and forget" Chrome extension that prevents sessi
 
 ## The Problem
 
-Users of the Arive platform are frequently logged out due to an idle timer, often in as little as 15 minutes. This disrupts workflow, forces repeated logins, and can cause a loss of unsaved work. When monitoring multiple loans or pages simultaneously, a single timeout logs the user out of all open Arive tabs.
+Users of the Arive platform are frequently logged out due to an idle timer, often in as little as 5 minutes. This disrupts workflow, forces repeated logins, and can cause a loss of unsaved work. When monitoring multiple loans or pages simultaneously, a single timeout logs the user out of all open Arive tabs.
 
 ## The Solution
 
